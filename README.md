@@ -1,4 +1,4 @@
-# 💰 MERN Expense Tracker - Full Stack Financial Management
+#  MERN Expense Tracker - Full Stack Financial Management
 
 > A full-stack Expense Tracker built using the MERN stack (MongoDB, Express, React, Node.js) to help you manage and track your expenses efficiently.
 
@@ -113,8 +113,7 @@ Backend (Render)
 https://img.shields.io/badge/Deployed%2520on-Render-46E3B7?style=for-the-badge&logo=render
 ```
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 🤝 Contributing
 ```bash
@@ -130,8 +129,8 @@ Open a Pull Request
 ```
 👨‍💻 Developer
 <div align="center">
-Subham Nayak
-Full Stack Developer
+Lovekush
+Web Developer
 </div>
 
 
